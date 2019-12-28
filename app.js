@@ -12,7 +12,7 @@ const apiKey ='Y8s6dW3uAs-TZ34YRekghk7llJxJuj3JjNAcLtADi-OZ02Dl66_soagZHv-eTyQFH
 const client = yelp.client(apiKey);
 let top5Shops = [];
 
-async function yelp_fusion() 
+async function yelp_fusion_business()
 {
     const searchRequest = {
         term: 'ice cream shop',
@@ -45,7 +45,8 @@ async function yelp_fusion()
                     temp_review.push({ "Review text": response.jsonBody.reviews[j].text, "Reviewer name": response.jsonBody.reviews[j].user.name });
                 }
                 
-                obj.reviews = temp_review
+                obj.reviews = temp_review;
+
             }).catch(error => 
             {
                 console.log(error);
@@ -58,12 +59,12 @@ async function yelp_fusion()
             }
         }
         
-        const prettyJson = JSON.stringify(top5Shops, " ", 4);
-        console.log(prettyJson);
+        const stringJson = JSON.stringify(top5Shops, " ", 4);
+        console.log(stringJson);
     }).catch(error => 
     {
         console.log(error);
     });
 }
 
-yelp_fusion();
+yelp_fusion_business();
