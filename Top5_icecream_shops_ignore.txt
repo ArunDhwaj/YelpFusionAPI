@@ -1,0 +1,244 @@
+[
+          {
+                    "Business name": "Scream'n Nuts",
+                    "street address1": "5950 North Point Pkwy",
+                    "street address2": "",
+                    "street address3": null,
+                    "city": "Alpharetta",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "But far the best donuts in the area. These donuts have one thing in common, they are all yeast donut based and that's about it. The variety is outstanding....",
+                                        "Reviewer name": "Stacy A."
+                              },
+                              {
+                                        "Review text": "If you're in the mood for donuts in North OTP, this is definitely the place to go. I don't have a craving for donuts often (savory over sweet, always!) but...",
+                                        "Reviewer name": "Krishna C."
+                              },
+                              {
+                                        "Review text": "If you like donuts that are \"specialty\" and large, this is the place. While there isn't dozens of varieties, the ones they make are exquisite. A variety of...",
+                                        "Reviewer name": "Dave B."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Sweet Spot",
+                    "street address1": "6035 Peachtree Rd",
+                    "street address2": "Ste A-115",
+                    "street address3": "",
+                    "city": "Doraville",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "Sweet spot is a dessert shop that whips up Asian style confections and bobas. The extensive menu offers wide variations of frozen treats, boba smoothies,...",
+                                        "Reviewer name": "Tuyet N."
+                              },
+                              {
+                                        "Review text": "My favorite spot for egg waffles!\n\nSweet Spot is in the busy corner of Hmart along with Tea Spot and Meet Fresh.  It doesn't get much foot traffic as the...",
+                                        "Reviewer name": "Helen K."
+                              },
+                              {
+                                        "Review text": "I live just down the street from Sweet Spot and have been coming here occasionally since it opened. Unfortunately, we will not be coming back. \n\nWe came...",
+                                        "Reviewer name": "Lan M."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Mr Tino's Ice Cream",
+                    "street address1": "1255 Grimes Bridge Rd",
+                    "street address2": "",
+                    "street address3": "",
+                    "city": "Roswell",
+                    "Business rating": 5,
+                    "reviews": [
+                              {
+                                        "Review text": "Mr. Tinos is amazing.   If you reallly want to try something different from the usual ice cream joints, try Tinos.  Tinos has the usual flavors, banana...",
+                                        "Reviewer name": "Mark T."
+                              },
+                              {
+                                        "Review text": "Yes REAL Ice cream and fresh waters plus more snacks  , Super delicious ! All clean and super friendly I RECOMMEND IT  !!! Don't be afraid to try new things",
+                                        "Reviewer name": "Jose C."
+                              },
+                              {
+                                        "Review text": "It still puzzles me how this neighborhood gem was able to fly under my radar of all the years I lived in this area! We found this place by chance and have...",
+                                        "Reviewer name": "Kin N."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Where's The Scoop?",
+                    "street address1": "9925 Haynes Bridge Rd",
+                    "street address2": "Ste 510",
+                    "street address3": "",
+                    "city": "Johns Creek",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "First off this place is like NO other. Parking is easy. It's in a shopping center with spots available near by. \nThe owner, Zack, is a very talented kid. He...",
+                                        "Reviewer name": "amanda s."
+                              },
+                              {
+                                        "Review text": "Amazing product. Amazing service. 10/10. \n\nThis place has a unique take on gourmet ice cream. I've been here a few times over the last few weeks and ill...",
+                                        "Reviewer name": "John S."
+                              },
+                              {
+                                        "Review text": "I went there to introduce my friend to bubble tea. It was the only bubble tea place between us, so despite wanting to take them to a \"real\" bubble tea place...",
+                                        "Reviewer name": "Eir H."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Jeni's Splendid Ice Creams",
+                    "street address1": "800 Avalon Blvd",
+                    "street address2": null,
+                    "street address3": "",
+                    "city": "Alpharetta",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "If G(j)eniE granted me 3 wishes I would wish for a local Jeni's ice cream shop here in Orlando and by that I mean inside my house. Secondly that my survival...",
+                                        "Reviewer name": "Thuy T."
+                              },
+                              {
+                                        "Review text": "This place appeared at the right time; sweltering 100 degree heat constitutes a trip to the ice cream parlor.  \n\nThe venue is small but perfectly situated...",
+                                        "Reviewer name": "Yasmin R."
+                              },
+                              {
+                                        "Review text": "Hanging out with the localites is a good thing. They're gonna wanna take you to places where they like to go. Since they couldn't seem to shut their mouths...",
+                                        "Reviewer name": "Rodrigo T."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "The Chocolaterie Luxury Chocolates",
+                    "street address1": "3099 Main St",
+                    "street address2": "",
+                    "street address3": "",
+                    "city": "Duluth",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "BEST CHOCOLATE IN ATLANTA!\n\nWhat a great place!  The staff is amazing and so much fun!\n\nIf you are looking for a great experience and the best chocolate I...",
+                                        "Reviewer name": "Bob R."
+                              },
+                              {
+                                        "Review text": "This is a high end chocolate and dessert store. The truffles are absolutely stunning, they make everything by hand and it shows. There's a lot of different...",
+                                        "Reviewer name": "Patrick P."
+                              },
+                              {
+                                        "Review text": "I used to love LOVE to come here with my bro and sometimes with family, too, but I felt negative energies when I walked in. There were two girls in the back...",
+                                        "Reviewer name": "Yoomee H."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Freeze Cream",
+                    "street address1": "10995 State Bridge Rd",
+                    "street address2": "",
+                    "street address3": null,
+                    "city": "Johns Creek",
+                    "Business rating": 5,
+                    "reviews": [
+                              {
+                                        "Review text": "First time visiting this place and it was great!! Staff was very welcoming and knowledgeable about the various menus items. Service was excellent!",
+                                        "Reviewer name": "Brien A."
+                              },
+                              {
+                                        "Review text": "Unreal... My Allergen healthy food quest & reviews continue here... After taking my son to many ice cream places to watch him devour these tasty treats in...",
+                                        "Reviewer name": "Kylan W."
+                              },
+                              {
+                                        "Review text": "We stopped by to check out the Vegan friendly options. The owner Douglas was upbeat and friendly. He thoroughly Explained all vegan friendly options! The...",
+                                        "Reviewer name": "Kanisha A."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Daddy O'Brien's Irish Ice Cream Pub",
+                    "street address1": "5910 Suwanee Dam Rd",
+                    "street address2": "Ste 400",
+                    "street address3": null,
+                    "city": "Sugar Hill",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "Wow, that's some impressive ice cream! It is the richest ice cream I have ever had. The best part was that I was able to get an ice cream flight! The...",
+                                        "Reviewer name": "Diana T."
+                              },
+                              {
+                                        "Review text": "Dropped in on an evening to top off a dinner.   Place was busy, but got seated at the bar quickly.   Many flavors to choose from, half child friendly, the...",
+                                        "Reviewer name": "Stacy A."
+                              },
+                              {
+                                        "Review text": "I really loved this place, I wish it were closer to where we currently live in Lawrenceville! We went for my son's birthday and had a marvelous time. They...",
+                                        "Reviewer name": "Renee R."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Kwality Ice cream",
+                    "street address1": "6631 Roswell Rd",
+                    "street address2": "Ste D",
+                    "street address3": null,
+                    "city": "Sandy Springs",
+                    "Business rating": 5,
+                    "reviews": [
+                              {
+                                        "Review text": "I was looking for a nearby dessert place near me at the time, and this place happened to pop up. It was located on a plaza near Publix in Sandy Springs....",
+                                        "Reviewer name": "Randy T."
+                              },
+                              {
+                                        "Review text": "This place is the best in Atlanta for Indian ice cream and the best part about it is that it is not a regular ice cream it's a authentic Indian ice cream...",
+                                        "Reviewer name": "Heena C."
+                              },
+                              {
+                                        "Review text": "Lovely little place that I wouldn't have found on my own. I thought they only made cakes and ice cream cakes but I was told by friend they have ice cream....",
+                                        "Reviewer name": "Krishna C."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Smallcakes Of Alpharetta",
+                    "street address1": "4055 Old Milton Pkwy",
+                    "street address2": null,
+                    "street address3": "",
+                    "city": "Alpharetta",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "I've been here several times and the cakes are very good. The have a good variety of flavors and the service is great! Highly recommend this place if you're...",
+                                        "Reviewer name": "Solomon T."
+                              },
+                              {
+                                        "Review text": "Order cupcakes for my husband bday/end of the year alta tennis party. The cupcakes were a huge hit! Everyone kept asking where we got them. The most popular...",
+                                        "Reviewer name": "Linda M."
+                              },
+                              {
+                                        "Review text": "The cupcakes are splendiferous!!!!!!! I fell in love! They are small bites but sooo tasty. Best cupcakes in town hands down!!!!",
+                                        "Reviewer name": "Courtney R."
+                              }
+                    ]
+          },
+          {
+                    "Business name": "Da Vinci's Donuts",
+                    "street address1": "131 S Main St",
+                    "street address2": "Ste F",
+                    "street address3": "",
+                    "city": "Alpharetta",
+                    "Business rating": 4.5,
+                    "reviews": [
+                              {
+                                        "Review text": "I absolutely love this place. Not your average Size Which is great because you can eat more. So many yummy options to choose from and you can also create...",
+                                        "Reviewer name": "Cameon T."
+                              },
+                              {
+                                        "Review text": "A perfect bite of a donut. When you don't want a full\nDonut or want to go and try multiple flavors - this is your place! I got maple bacon and salted...",
+                                        "Reviewer name": "Cathryn M."
+                              },
+                              {
+                                        "Review text": "The gluten free donuts are tiny. The normal donuts are smaller than other donut places which is not a big deal. But the gluten free donuts are an inch and a...",
+                                        "Reviewer name": "Josh J."
+                              }
+                    ]
+          }
+]

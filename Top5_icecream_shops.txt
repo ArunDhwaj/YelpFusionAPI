@@ -1,0 +1,107 @@
+[
+    {
+        "Business name": "Scream'n Nuts",
+        "street address1": "5950 North Point Pkwy",
+        "street address2": "",
+        "street address3": null,
+        "city": "Alpharetta",
+        "reviews": [
+            {
+                "Review text": "But far the best donuts in the area. These donuts have one thing in common, they are all yeast donut based and that's about it. The variety is outstanding....",
+                "Reviewer name": "Stacy A."
+            },
+            {
+                "Review text": "If you're in the mood for donuts in North OTP, this is definitely the place to go. I don't have a craving for donuts often (savory over sweet, always!) but...",
+                "Reviewer name": "Krishna C."
+            },
+            {
+                "Review text": "If you like donuts that are \"specialty\" and large, this is the place. While there isn't dozens of varieties, the ones they make are exquisite. A variety of...",
+                "Reviewer name": "Dave B."
+            }
+        ]
+    },
+    {
+        "Business name": "Sweet Spot",
+        "street address1": "6035 Peachtree Rd",
+        "street address2": "Ste A-115",
+        "street address3": "",
+        "city": "Doraville",
+        "reviews": [
+            {
+                "Review text": "Sweet spot is a dessert shop that whips up Asian style confections and bobas. The extensive menu offers wide variations of frozen treats, boba smoothies,...",
+                "Reviewer name": "Tuyet N."
+            },
+            {
+                "Review text": "My favorite spot for egg waffles!\n\nSweet Spot is in the busy corner of Hmart along with Tea Spot and Meet Fresh.  It doesn't get much foot traffic as the...",
+                "Reviewer name": "Helen K."
+            },
+            {
+                "Review text": "I live just down the street from Sweet Spot and have been coming here occasionally since it opened. Unfortunately, we will not be coming back. \n\nWe came...",
+                "Reviewer name": "Lan M."
+            }
+        ]
+    },
+    {
+        "Business name": "Mr Tino's Ice Cream",
+        "street address1": "1255 Grimes Bridge Rd",
+        "street address2": "",
+        "street address3": "",
+        "city": "Roswell",
+        "reviews": [
+            {
+                "Review text": "Mr. Tinos is amazing.   If you reallly want to try something different from the usual ice cream joints, try Tinos.  Tinos has the usual flavors, banana...",
+                "Reviewer name": "Mark T."
+            },
+            {
+                "Review text": "Yes REAL Ice cream and fresh waters plus more snacks  , Super delicious ! All clean and super friendly I RECOMMEND IT  !!! Don't be afraid to try new things",
+                "Reviewer name": "Jose C."
+            },
+            {
+                "Review text": "It still puzzles me how this neighborhood gem was able to fly under my radar of all the years I lived in this area! We found this place by chance and have...",
+                "Reviewer name": "Kin N."
+            }
+        ]
+    },
+    {
+        "Business name": "Where's The Scoop?",
+        "street address1": "9925 Haynes Bridge Rd",
+        "street address2": "Ste 510",
+        "street address3": "",
+        "city": "Johns Creek",
+        "reviews": [
+            {
+                "Review text": "First off this place is like NO other. Parking is easy. It's in a shopping center with spots available near by. \nThe owner, Zack, is a very talented kid. He...",
+                "Reviewer name": "amanda s."
+            },
+            {
+                "Review text": "Amazing product. Amazing service. 10/10. \n\nThis place has a unique take on gourmet ice cream. I've been here a few times over the last few weeks and ill...",
+                "Reviewer name": "John S."
+            },
+            {
+                "Review text": "I went there to introduce my friend to bubble tea. It was the only bubble tea place between us, so despite wanting to take them to a \"real\" bubble tea place...",
+                "Reviewer name": "Eir H."
+            }
+        ]
+    },
+    {
+        "Business name": "Jeni's Splendid Ice Creams",
+        "street address1": "800 Avalon Blvd",
+        "street address2": null,
+        "street address3": "",
+        "city": "Alpharetta",
+        "reviews": [
+            {
+                "Review text": "If G(j)eniE granted me 3 wishes I would wish for a local Jeni's ice cream shop here in Orlando and by that I mean inside my house. Secondly that my survival...",
+                "Reviewer name": "Thuy T."
+            },
+            {
+                "Review text": "This place appeared at the right time; sweltering 100 degree heat constitutes a trip to the ice cream parlor.  \n\nThe venue is small but perfectly situated...",
+                "Reviewer name": "Yasmin R."
+            },
+            {
+                "Review text": "Hanging out with the localites is a good thing. They're gonna wanna take you to places where they like to go. Since they couldn't seem to shut their mouths...",
+                "Reviewer name": "Rodrigo T."
+            }
+        ]
+    }
+]
